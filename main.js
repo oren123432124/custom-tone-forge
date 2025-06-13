@@ -1,0 +1,1 @@
+document.getElementById('app').innerHTML += '<p>Powered by Vite</p>';
