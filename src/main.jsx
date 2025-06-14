@@ -2,6 +2,8 @@ import React from "react";
 import { Link } from "react-router-dom";
 import Carousel from "./components/Carousel";
 import './style.css';
+fix: correctly named style.css for Vercel
+
 export default function Main() {
   return (
     <main className="min-h-screen bg-black text-white font-sans">
